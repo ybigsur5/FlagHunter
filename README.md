@@ -1,4 +1,4 @@
-# FlagHunter 🏴‍☠️
+# FlagHunter
 FlagHunter is a powerful, multi-threaded CTF (Capture The Flag) reconnaissance tool designed to automatically discover flags across various formats and locations during cybersecurity competitions. Built for efficiency and versatility, FlagHunter streamlines the flag hunting process through comprehensive scanning capabilities that cover web applications, file systems, and network services.
 
 ## Features
@@ -247,4 +247,4 @@ For issues, feature requests, or questions:
 
 ---
 
-**Happy Flag Hunting! 🚩**
+**Welcome To The Jungle! **
