@@ -1,0 +1,14 @@
+CTF{.*?}
+FLAG{.*?}
+flag{.*?}
+PICO{.*?}
+HTB{.*?}
+CYBER{.*?}
+HACK{.*?}
+PWN{.*?}
+REV{.*?}
+CRYPTO{.*?}
+WEB{.*?}
+FORENSICS{.*?}
+MISC{.*?}
+[A-Za-z0-9_]+\{[A-Za-z0-9_!@#$%^&*()+=\-\[\]{}|;:,.<>?/~`]+\}
