@@ -90,9 +90,10 @@ Fork the repository
 Create a feature branch
 Make your changes
 Submit a pull request
-Disclaimer
+
+## Disclaimer
 This tool is for educational purposes and authorized CTF competitions only. Always ensure you have permission before scanning any systems.
 
-License
+## License
 MIT License - see LICENSE file for details.
 
