@@ -238,16 +238,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Changelog
-
-### v1.0.0 (2024-01-15)
-- Initial release
-- Multi-format flag detection
-- Web and file scanning capabilities
-- Multi-threading support
-- Customizable patterns
-- Comprehensive reporting
-
 ## Support
 
 For issues, feature requests, or questions:
