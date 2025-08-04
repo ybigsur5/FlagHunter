@@ -246,5 +246,3 @@ For issues, feature requests, or questions:
 - Review the configuration file for customization options
 
 ---
-
-**Welcome To The Jungle! **
