@@ -1,0 +1,10 @@
+CTF{welcome_to_ctf}
+FLAG{test_flag}
+flag{sample_flag}
+CTF{hidden_in_source}
+FLAG{check_the_headers}
+CTF{robots_txt_flag}
+FLAG{directory_traversal}
+CTF{sql_injection_flag}
+FLAG{xss_vulnerability}
+CTF{command_injection}
